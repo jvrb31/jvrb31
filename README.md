@@ -35,8 +35,6 @@ Atualmente aprendendo Python na prática — construindo scripts, chatbots e int
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jvrb31&theme=dark&hide_border=true" />
 </p>
