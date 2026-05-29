@@ -36,5 +36,6 @@ Atualmente aprendendo Python na prática — construindo scripts, chatbots e int
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/jvrb31?base=header%2C+repositories%2C+metadata&config.timezone=America%2FSao_Paulo" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jvrb31&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jvrb31&layout=compact&langs_count=7&theme=dark" />
 </p>
