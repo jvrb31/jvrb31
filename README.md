@@ -1,40 +1,78 @@
-# Olá, eu sou o José! 👋
+<h1 align="center">👋 Olá, eu sou o José Vitor</h1>
 
-🎓 Estudante de Engenharia de Software — 6º semestre  
-🤖 AI Automation Developer em formação  
-📍 São José dos Campos - SP  
+<p align="center">
+💻 AI Automation Developer em formação <br>
+🚀 Focado em IA, automação e integrações <br>
+📍 São José dos Campos - SP
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Desenvolvedor focado em **Inteligência Artificial aplicada e automação de processos**.
+
+Crio:
+- 🤖 Agentes de IA
+- ⚙️ Workflows automatizados
+- 🔗 Integrações entre APIs
+
+Atualmente evoluindo com **Python + IA na prática**, construindo projetos reais.
+
+---
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos em automação e Inteligência Artificial, evoluir tecnicamente e contribuir com a equipe.
+Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), com foco em:
+- IA aplicada
+- Automação de processos
+- Integração de sistemas
 
-## 📝 Sobre mim
+---
 
-Desenvolvedor focado em Inteligência Artificial aplicada e automação de processos. Construo agentes de IA, workflows automatizados e integrações entre sistemas usando n8n, OpenAI e Python.
+## 🧠 Tecnologias
 
-Atualmente aprendendo Python na prática — construindo scripts, chatbots e integrações com APIs de IA. Aqui no GitHub compartilho projetos práticos que desenvolvi para aprender e evoluir na área de IA e automação.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,aws,git" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
+
+---
 
 ## 📂 Projetos em destaque
 
-- 🤖 [telegram-lead-qualifier-ai](https://github.com/jvrb31/telegram-lead-qualifier-ai) — Agente de IA que qualifica leads automaticamente via Telegram e n8n.
-- 📚 [ai-study-assistant-n8n](https://github.com/jvrb31/ai-study-assistant-n8n) — Assistente de estudos inteligente integrado com IA e memória de contexto.
-- 🔗 [ai-link-summarizer-agent](https://github.com/jvrb31/ai-link-summarizer-agent) — Agente autônomo que resume links recebidos e envia relatórios por e-mail via Gemini.
+🚀 **Telegram Lead Qualifier AI**  
+→ Qualifica leads automaticamente via IA  
+🔗 https://github.com/jvrb31/telegram-lead-qualifier-ai  
 
-## 🛠️ Tecnologias
+📚 **AI Study Assistant**  
+→ Assistente inteligente com memória  
+🔗 https://github.com/jvrb31/ai-study-assistant-n8n  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+🔗 **AI Link Summarizer**  
+→ Resume links e envia por e-mail automaticamente  
+🔗 https://github.com/jvrb31/ai-link-summarizer-agent  
 
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josevitorr00)
+---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jvrb31&theme=dark&hide_border=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+<a href="https://linkedin.com/in/josevitorr00">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
