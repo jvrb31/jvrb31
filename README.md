@@ -4,13 +4,21 @@
 🤖 AI Automation Developer em formação  
 📍 São José dos Campos - SP  
 
-## Sobre mim
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos em automação e Inteligência Artificial, evoluir tecnicamente e contribuir com a equipe.
+
+## 📝 Sobre mim
 
 Desenvolvedor focado em Inteligência Artificial aplicada e automação de processos. Construo agentes de IA, workflows automatizados e integrações entre sistemas usando n8n, OpenAI e Python.
 
-Atualmente aprendendo Python na prática — construindo scripts, chatbots e integrações com APIs de IA.
+Atualmente aprendendo Python na prática — construindo scripts, chatbots e integrações com APIs de IA. Aqui no GitHub compartilho projetos práticos que desenvolvi para aprender e evoluir na área de IA e automação.
 
-Aqui no GitHub compartilho projetos práticos que desenvolvi para aprender e evoluir na área de IA e automação.
+## 📂 Projetos em destaque
+
+- 🤖 [telegram-lead-qualifier-ai](https://github.com/jvrb31/telegram-lead-qualifier-ai) — Agente de IA que qualifica leads automaticamente via Telegram e n8n.
+- 📚 [ai-study-assistant-n8n](https://github.com/jvrb31/ai-study-assistant-n8n) — Assistente de estudos inteligente integrado com IA e memória de contexto.
+- 🔗 [ai-link-summarizer-agent](https://github.com/jvrb31/ai-link-summarizer-agent) — Agente autônomo que resume links recebidos e envia relatórios por e-mail via Gemini.
 
 ## 🛠️ Tecnologias
 
@@ -21,12 +29,13 @@ Aqui no GitHub compartilho projetos práticos que desenvolvi para aprender e evo
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
-## 📂 Projetos em destaque
-
-- 🤖 [Qualificador de Leads via Telegram](https://github.com/jvrb31/qualificador-leads-telegram-n8n) — Agente de IA que qualifica leads automaticamente
-- 📚 [AI Study Assistant](https://github.com/jvrb31/projeto-n8n-1) — Assistente de estudos com IA e memória
-- 🔗 [Resumo de Links por Email](https://github.com/jvrb31/projeto-n8n-2) — Agente autônomo com Gemini e Gmail
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josevitorr00)
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&langs_count=7&theme=dark" />
+</p>
