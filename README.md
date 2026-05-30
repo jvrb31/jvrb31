@@ -1,78 +1,68 @@
-<h1 align="center">👋 Olá, eu sou o José Vitor</h1>
+<h2>👋 Olá, eu sou o José Vitor!</h2>
 
-<p align="center">
-💻 AI Automation Developer em formação <br>
-🚀 Focado em IA, automação e integrações <br>
-📍 São José dos Campos - SP
-</p>
+🎓 Estudante de Engenharia de Software  
+🤖 AI Automation Developer em formação  
+💻 Desenvolvedor focado em IA e automação  
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Desenvolvedor focado em **Inteligência Artificial aplicada e automação de processos**.
+Engenheiro de Software em formação com foco em **Inteligência Artificial aplicada e automação de processos**.
 
-Crio:
+Tenho experiência prática criando:
 - 🤖 Agentes de IA
-- ⚙️ Workflows automatizados
-- 🔗 Integrações entre APIs
+- ⚙️ Workflows automatizados com n8n
+- 🔗 Integrações com APIs (OpenAI, Telegram, etc.)
 
-Atualmente evoluindo com **Python + IA na prática**, construindo projetos reais.
+Aqui no GitHub compartilho projetos reais que fazem parte da minha evolução na área de tecnologia.
+
+---
+
+## 🎓 Formação
+
+- 🎓 Engenharia de Software — 6º semestre  
+- 📚 Cursos focados em IA, automação e desenvolvimento backend  
 
 ---
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), com foco em:
-- IA aplicada
-- Automação de processos
-- Integração de sistemas
+Busco minha primeira oportunidade como **desenvolvedor (estágio ou júnior)**.
 
----
-
-## 🧠 Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,aws,git" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
-
----
-
-## 📂 Projetos em destaque
-
-🚀 **Telegram Lead Qualifier AI**  
-→ Qualifica leads automaticamente via IA  
-🔗 https://github.com/jvrb31/telegram-lead-qualifier-ai  
-
-📚 **AI Study Assistant**  
-→ Assistente inteligente com memória  
-🔗 https://github.com/jvrb31/ai-study-assistant-n8n  
-
-🔗 **AI Link Summarizer**  
-→ Resume links e envia por e-mail automaticamente  
-🔗 https://github.com/jvrb31/ai-link-summarizer-agent  
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=tokyonight"/>
-</p>
+Quero:
+- Evoluir tecnicamente
+- Trabalhar com IA aplicada
+- Contribuir com soluções reais
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-<a href="https://linkedin.com/in/josevitorr00">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 💼 LinkedIn: https://linkedin.com/in/josevitorr00
+
+---
+
+## 🧰 Linguagens e Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,aws,git" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=dark"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=dark"/>
 </p>
