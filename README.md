@@ -23,10 +23,7 @@ Atualmente evoluindo com **Python + IA na prática**, construindo projetos reais
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), com foco em:
-- IA aplicada
-- Automação de processos
-- Integração de sistemas
+Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos em desenvolvimento de software, evoluir tecnicamente e contribuir com a criação de soluções eficientes em projetos reais.
 
 ---
 
