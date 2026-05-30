@@ -61,13 +61,10 @@ Sistema que resume links automaticamente e envia por e-mail
 ## 📊 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=dark"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=dark"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=github_dark&cache_seconds=1800"/>
-</p>
----
 
 ## 📫 Contato
 
