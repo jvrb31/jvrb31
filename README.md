@@ -47,7 +47,7 @@ Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), com 
 ## 📂 Projetos em destaque
 
 🚀 **Telegram Lead Qualifier AI**  
-→ Qualifica leads automaticamente via IA  
+Agente de IA que automatiza a qualificação de leads via Telegram usando n8n + OpenAI  
 🔗 https://github.com/jvrb31/telegram-lead-qualifier-ai  
 
 📚 **AI Study Assistant**  
