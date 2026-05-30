@@ -13,9 +13,10 @@
 Desenvolvedor focado em **Inteligência Artificial aplicada e automação de processos**.
 
 Crio:
-- 🤖 Agentes de IA
-- ⚙️ Workflows automatizados
-- 🔗 Integrações entre APIs
+
+* 🤖 Agentes de IA
+* ⚙️ Workflows automatizados
+* 🔗 Integrações entre APIs
 
 Atualmente evoluindo com **Python + IA na prática**, construindo projetos reais.
 
@@ -43,25 +44,25 @@ Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde
 
 ## 📂 Projetos em destaque
 
-🚀 **Telegram Lead Qualifier AI**  
-Agente de IA que automatiza a qualificação de leads via Telegram usando n8n + OpenAI  
-🔗 https://github.com/jvrb31/telegram-lead-qualifier-ai  
+🚀 **Telegram Lead Qualifier AI**
+Agente de IA que automatiza a qualificação de leads via Telegram usando n8n + OpenAI
+🔗 https://github.com/jvrb31/telegram-lead-qualifier-ai
 
-📚 **AI Study Assistant**  
-→ Assistente inteligente com memória  
-🔗 https://github.com/jvrb31/ai-study-assistant-n8n  
+📚 **AI Study Assistant**
+Assistente inteligente com memória de contexto
+🔗 https://github.com/jvrb31/ai-study-assistant-n8n
 
-🔗 **AI Link Summarizer**  
-→ Resume links e envia por e-mail automaticamente  
-🔗 https://github.com/jvrb31/ai-link-summarizer-agent  
+🔗 **AI Link Summarizer**
+Sistema que resume links automaticamente e envia por e-mail
+🔗 https://github.com/jvrb31/ai-link-summarizer-agent
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvrb31&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrb31&layout=compact&theme=github_dark"/>
 </p>
 
 ---
